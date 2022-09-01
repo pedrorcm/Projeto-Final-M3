@@ -1,0 +1,9 @@
+﻿colaborador_id;colaborador_nome;colaborador_email;colaborador_telefone;colaborador_cpf;colaborador_data_nascimento;colaborador_idade;colaborador_departamento;id_genero;id_estado;id_escolaridade;ativo
+1;maria rossi;mariarossi@gmail.com;33988634634;87422567040;06/04/1986;36;3;2;2;4;True
+2;josé russo;josérusso@gmail.com;33988634635;44586150092;10/07/1989;32;1;1;4;3;True
+3;antônio ferrari;antônioferrari@gmail.com;33988634636;86103685052;10/07/1978;43;1;1;7;5;True
+4;joão esposito;joãoesposito@gmail.com;33988634637;45797607000;08/04/1995;27;1;1;7;3;True
+5;francisco bianchi;franciscobianchi@gmail.com;33988634638;13820710000;20/10/1995;26;1;1;5;3;True
+6;ana romano;anaromano@gmail.com;33988634639;48338213039;20/07/1988;34;2;2;9;4;True
+7;luiz colombo;luizcolombo@gmail.com;33988634640;80118574019;19/03/1988;34;1;1;24;3;True
+8;paulo Ricci;pauloRicci@gmail.com;33988634641;80008574019;16/06/1998;24;1;3;11;2;True

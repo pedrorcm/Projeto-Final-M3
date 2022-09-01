@@ -1,0 +1,201 @@
+﻿aluno_nome;aluno_email;aluno_telefone;aluno_cpf;aluno_data_nascimento;aluno_idade;turma_id;genero_id;estado_id;escolaridade_id;ativo
+miguel martins;miguelmartins@gmail.com;57988727378;19029587059;01/01/1999;23;1;1;19;1;True
+arthur oliveira;arthuroliveira@gmail.com;57988727379;33396227018;02/02/1999;23;2;1;19;2;True
+théo silva;théosilva@gmail.com;57988727380;57616673040;03/03/2000;21;3;1;19;3;True
+heitor rodrigues;heitorrodrigues@gmail.com;57988727381;69895255098;04/04/2001;20;4;1;26;1;True
+gael almeida;gaelalmeida@gmail.com;57988727382;20315343001;05/05/2002;19;5;1;26;2;True
+davi cardoso;davicardoso@gmail.com;57988727383;90171096029;06/06/1990;31;6;1;24;3;True
+bernardo gonçalves;bernardogonçalves@gmail.com;57988727384;26607306012;07/07/1991;30;1;1;23;1;True
+gabriel santos;gabrielsantos@gmail.com;57988727385;73403422062;08/08/1992;29;2;1;16;2;True
+ravi freitas;ravifreitas@gmail.com;57988727386;66675529072;09/01/1993;28;3;1;11;3;True
+noah ribeiro;noahribeiro@gmail.com;57988727387;89923764052;10/02/1994;27;4;3;11;1;True
+samuel souza;samuelsouza@gmail.com;57988727388;41894166060;11/03/1995;26;5;1;11;2;True
+pedro marques;pedromarques@gmail.com;57988727389;99730495009;12/04/1996;25;6;1;9;3;True
+benício gomes;beníciogomes@gmail.com;57988727390;44798308048;13/05/1997;24;1;1;7;1;True
+benjamin fernandes;benjaminfernandes@gmail.com;57988727391;68361546014;14/06/1998;23;2;1;12;2;True
+matheus ferreira;matheusferreira@gmail.com;57988727392;90173569013;15/07/1999;22;3;1;13;3;True
+isaac carvalho;isaaccarvalho@gmail.com;57988727393;49006099007;16/08/2000;21;4;1;19;1;True
+anthony alves;anthonyalves@gmail.com;57988727394;50385753071;17/01/2001;20;5;1;19;2;True
+joaquim machado;joaquimmachado@gmail.com;57988727395;69447734065;18/02/2002;19;6;1;19;3;True
+lucas pereira;lucaspereira@gmail.com;57988727396;18323651078;19/03/1998;23;1;1;26;1;True
+lorenzo lopes;lorenzolopes@gmail.com;57988727397;45534652055;20/04/1999;22;2;1;26;2;True
+rafael vieira;rafaelvieira@gmail.com;57988727398;61880654024;21/05/2000;21;3;1;24;3;True
+nicolas nascimento;nicolasnascimento@gmail.com;57988727399;41223194043;22/06/2001;20;4;1;23;1;True
+henrique lima;henriquelima@gmail.com;57988727400;59327595009;23/07/2002;19;5;1;16;2;True
+murilo dias;murilodias@gmail.com;57988727401;40079700098;24/08/1990;31;6;1;11;3;True
+joãomiguel nunes;joãomiguelnunes@gmail.com;57988727402;35276382026;25/01/1991;30;1;1;11;1;True
+lucca costa;luccacosta@gmail.com;57988727403;72171730005;26/02/1992;29;2;1;11;2;True
+guilherme teixeira;guilhermeteixeira@gmail.com;57988727404;13778085050;27/03/1993;28;3;1;9;3;True
+henry ramos;henryramos@gmail.com;57988727405;49659523084;01/04/1994;27;4;1;7;1;True
+bryan santana;bryansantana@gmail.com;57988727406;77439755090;02/05/1995;26;5;3;12;2;True
+gustavo  moreira;gustavo moreira@gmail.com;57988727407;96244105001;03/06/1996;25;6;1;13;3;True
+felipe mendes;felipemendes@gmail.com;57988727408;24326058021;04/07/1997;24;1;1;19;1;True
+pietro andrade;pietroandrade@gmail.com;57988727409;57569652037;05/08/1998;23;2;1;19;2;True
+levi rocha;levirocha@gmail.com;57988727410;47102006020;06/01/1999;22;3;1;19;3;True
+daniel soares;danielsoares@gmail.com;57988727411;10021439001;07/02/2000;21;4;1;26;1;True
+joão pedro barbosa;joãopedrobarbosa@gmail.com;57988727412;45936666000;08/03/2001;20;5;1;26;2;True
+bento magalhães;bentomagalhães@gmail.com;57988727413;77854130027;09/04/2002;19;6;1;24;3;False
+vicente amaral;vicenteamaral@gmail.com;57988727414;43773423047;10/05/1998;23;1;1;23;1;True
+leonardo bernardes;leonardobernardes@gmail.com;57988727415;87100701090;11/06/1999;22;2;1;16;2;True
+caleb domingues;calebdomingues@gmail.com;57988727416;68986880067;12/07/2000;21;3;1;11;3;True
+pedro henrique dourado;pedrohenriquedourado@gmail.com;57988727417;46021743024;13/08/2001;20;4;1;11;1;True
+matteo feitosa;matteofeitosa@gmail.com;57988727418;71608587002;14/01/2002;19;5;1;11;2;True
+enzo gabriel tavares;enzogabrieltavares@gmail.com;57988727419;68428453004;15/02/1990;31;6;1;9;3;True
+joão castro;joãocastro@gmail.com;57988727420;29732808004;16/03/1991;30;1;1;7;1;True
+antônio reis;antônioreis@gmail.com;57988727421;80379680068;17/04/1992;29;2;3;12;2;True
+emanuel duarte;emanuelduarte@gmail.com;57988727422;41365725065;18/05/1993;28;3;1;13;3;True
+enzo fonseca;enzofonseca@gmail.com;57988727423;77622801038;19/06/1994;27;4;1;19;1;True
+davi lucca mendanha;daviluccamendanha@gmail.com;57988727424;22656703085;20/07/1995;26;5;1;19;2;True
+caio siqueira;caiosiqueira@gmail.com;57988727425;51243008091;21/08/1996;25;6;1;19;3;True
+eduardo garcia;eduardogarcia@gmail.com;57988727426;77136357004;22/01/1997;24;1;1;26;1;True
+joão lucas novaes;joãolucasnovaes@gmail.com;57988727427;86699945009;23/02/1998;23;2;1;26;2;True
+thomas godoy;thomasgodoy@gmail.com;57988727428;95196781072;24/03/1999;22;3;1;24;3;True
+cauã chaves;cauãchaves@gmail.com;57988727429;56702557043;25/04/2000;21;4;1;23;1;True
+vitor leal;vitorleal@gmail.com;57988727430;24842744081;26/05/2001;20;5;1;16;2;True
+josé aguiar;joséaguiar@gmail.com;57988727431;95321448035;27/06/2002;19;6;1;11;3;True
+enrico mendonça;enricomendonça@gmail.com;57988727432;84279969000;01/07/1998;23;1;1;11;1;True
+augusto alvares;augustoalvares@gmail.com;57988727433;91811478050;02/08/1999;22;2;1;11;2;True
+joão gabriel gouveia;joãogabrielgouveia@gmail.com;57988727434;23547339090;03/01/2000;21;3;1;9;3;True
+francisco cabral;franciscocabral@gmail.com;57988727435;13401346083;04/02/2001;20;4;1;7;1;True
+otávio figueiredo;otáviofigueiredo@gmail.com;57988727436;54233860049;05/03/2002;19;5;1;12;2;True
+yuri azevedo;yuriazevedo@gmail.com;57988727437;77680270007;06/04/1990;31;6;1;13;3;True
+valentim torres;valentimtorres@gmail.com;57988727438;11594572046;07/05/1991;30;1;1;19;1;True
+vinícius araújo;viníciusaraújo@gmail.com;57988727439;47636968070;08/06/1992;29;2;1;19;2;True
+davi lucas queiroz;davilucasqueiroz@gmail.com;57988727440;70391785087;09/07/1993;28;3;1;19;3;True
+rael correia;raelcorreia@gmail.com;57988727441;13582935035;10/08/1994;27;4;1;26;1;True
+mathias pedroso;mathiaspedroso@gmail.com;57988727442;32247107052;11/01/1995;26;5;1;26;2;True
+theodoro barros;theodorobarros@gmail.com;57988727443;70004014006;12/02/1996;25;6;1;24;3;True
+yan alvarenga;yanalvarenga@gmail.com;57988727444;33936535043;13/03/1997;24;1;1;23;1;True
+joão guilherme fagundes;joãoguilhermefagundes@gmail.com;57988727445;63463829002;14/04/1998;23;2;1;16;2;True
+nathan bezerra;nathanbezerra@gmail.com;57988727446;31252154046;15/05/1999;22;3;1;11;3;True
+arthur miguel brito;arthurmiguelbrito@gmail.com;57988727447;47603326001;16/06/2000;21;4;1;11;1;True
+oliver viana;oliverviana@gmail.com;57988727448;81791291015;17/07/2001;20;5;1;11;2;True
+anthony gabriel vasconcelos;anthonygabrielvasconcelos@gmail.com;57988727449;19181214006;18/08/2002;19;6;1;9;3;True
+ryan medeiros;ryanmedeiros@gmail.com;57988727450;23483770046;19/01/1998;23;1;1;7;1;True
+luiz miguel peixoto;luizmiguelpeixoto@gmail.com;57988727451;99891965082;20/02/1999;22;2;1;12;2;True
+erick freire;erickfreire@gmail.com;57988727452;43152729065;21/03/2000;21;3;1;13;3;True
+joão vitor pires;joãovitorpires@gmail.com;57988727453;32134091037;22/04/2001;20;4;1;19;1;True
+luan campos;luancampos@gmail.com;57988727454;85290756094;23/05/2002;19;5;1;19;2;True
+thiago pinto;thiagopinto@gmail.com;57988727455;80272521051;24/06/1990;31;6;1;19;3;True
+apollo borges;apolloborges@gmail.com;57988727456;67628174086;25/07/1991;30;1;1;26;1;True
+ícaro leite;ícaroleite@gmail.com;57988727457;79790146000;26/08/1992;29;2;1;26;2;True
+breno rossi;brenorossi@gmail.com;57988727458;20297287052;27/01/1993;28;3;1;24;3;True
+arthur gabriel russo;arthurgabrielrusso@gmail.com;57988727459;73788702001;01/02/1994;27;4;1;23;1;True
+derick ferrari;derickferrari@gmail.com;57988727460;72129668003;02/03/1995;26;5;1;16;2;True
+kauê esposito;kauêesposito@gmail.com;57988727461;86681586007;03/04/1996;25;6;1;11;3;True
+martin bianchi;martinbianchi@gmail.com;57988727462;74433304050;04/05/1997;24;1;1;11;1;True
+luiz felipe romano;luizfeliperomano@gmail.com;57988727463;34103982012;05/06/1998;23;2;1;11;2;True
+raul colombo;raulcolombo@gmail.com;57988727464;80115255060;06/07/1999;22;3;1;9;3;True
+liam ricci;liamricci@gmail.com;57988727465;85266282088;07/08/2000;21;4;1;7;1;True
+davi miguel marino;davimiguelmarino@gmail.com;57988727466;93627212010;08/01/2001;20;5;1;12;2;True
+pedro lucas greco;pedrolucasgreco@gmail.com;57988727467;47359925029;09/02/2002;19;6;1;13;3;True
+josé miguel bruno;josémiguelbruno@gmail.com;57988727468;89836982094;10/03/1998;23;1;1;19;1;True
+josué gallo;josuégallo@gmail.com;57988727469;64574642033;11/04/1999;22;2;1;19;2;True
+pedro miguel conti;pedromiguelconti@gmail.com;57988727470;98747142049;12/05/2000;21;3;1;19;3;True
+micael deluca;micaeldeluca@gmail.com;57988727471;71697796095;13/06/2001;20;4;1;26;1;True
+yago mancini;yagomancini@gmail.com;57988727472;60233911090;14/07/2002;19;5;1;26;2;True
+dominic costa;dominiccosta@gmail.com;57988727473;47172370058;15/08/1990;31;6;1;24;3;True
+vitor hugo giordano;vitorhugogiordano@gmail.com;57988727474;72099388008;16/01/1991;30;1;1;23;1;True
+luiz henrique rizzo;luizhenriquerizzo@gmail.com;57988727475;92371258016;17/02/1992;29;2;1;16;2;True
+estevão lombardi;estevãolombardi@gmail.com;57988727476;33773104014;18/03/1993;28;3;1;11;3;True
+davi luiz moretti;daviluizmoretti@gmail.com;57988727477;54762102024;19/04/1994;27;4;1;11;1;True
+helena weber;helenaweber@gmail.com;57988727478;36885846007;20/05/1995;26;5;2;11;2;True
+alice ballard;aliceballard@gmail.com;57988727479;44708556004;21/06/1996;25;6;2;9;3;True
+laura barker;laurabarker@gmail.com;57988727480;76227657085;22/07/1997;24;1;2;7;1;True
+manuela atkinson;manuelaatkinson@gmail.com;57988727481;14640145071;23/08/1998;23;2;2;12;2;True
+sophia barr;sophiabarr@gmail.com;57988727482;28622670074;24/01/1999;22;3;2;13;3;True
+isabella conway;isabellaconway@gmail.com;57988727483;35128576043;25/02/2000;21;4;2;19;1;True
+luísa calhoun;luísacalhoun@gmail.com;57988727484;72472088051;26/03/2001;20;5;2;19;2;True
+heloísa costello;heloísacostello@gmail.com;57988727485;29799736021;27/04/2002;19;6;2;19;3;True
+cecília daugherty;cecíliadaugherty@gmail.com;57988727486;97860072041;01/05/1998;23;1;2;26;1;True
+maitê donovan;maitêdonovan@gmail.com;57988727487;74271859001;02/06/1999;22;2;2;26;2;True
+eloá dempsey;eloádempsey@gmail.com;57988727488;43852539005;03/07/2000;21;3;3;24;3;True
+elisa duncan;elisaduncan@gmail.com;57988727489;43848948052;04/08/2001;20;4;2;23;1;True
+liz faulkner;lizfaulkner@gmail.com;57988727490;79887038032;05/01/2002;19;5;2;16;2;True
+júlia fletcher;júliafletcher@gmail.com;57988727491;16186382036;06/02/1990;31;6;2;11;3;True
+maria luísa frazier;marialuísafrazier@gmail.com;57988727492;97229981026;07/03/1991;30;1;2;11;1;True
+valentina fitzgerald;valentinafitzgerald@gmail.com;57988727493;22330737033;08/04/1992;29;2;2;11;2;True
+maria alice duncan;mariaaliceduncan@gmail.com;57988727494;52397477092;09/05/1993;28;3;3;9;3;True
+lívia hagan;líviahagan@gmail.com;57988727495;78312868020;10/06/1994;27;4;2;7;1;True
+antonella hahn;antonellahahn@gmail.com;57988727496;96710106012;11/07/1995;26;5;2;12;2;True
+lorena higgins;lorenahiggins@gmail.com;57988727497;21089891024;12/08/1996;25;6;2;13;3;True
+ayla kerr;aylakerr@gmail.com;57988727498;15378337070;13/01/1997;24;1;2;13;1;True
+isis lynch;isislynch@gmail.com;57988727499;65039238053;14/02/1998;23;2;2;14;2;True
+maria júlia mccracken;mariajúliamccracken@gmail.com;57988727500;59820617006;15/03/1999;22;3;2;15;3;True
+maya mcbride;mayamcbride@gmail.com;57988727501;36614913000;16/04/2000;21;4;2;16;1;True
+maria clara montgomery;mariaclaramontgomery@gmail.com;57988727502;28337717033;17/05/2001;20;5;2;17;2;True
+esther mclaughlin;esthermclaughlin@gmail.com;57988727503;51697513034;18/06/2002;19;6;2;18;3;True
+giovanna ohara;giovannaohara@gmail.com;57988727504;83497376035;19/07/1998;23;1;2;19;1;True
+lara o’connell;larao’connell@gmail.com;57988727505;95494191001;20/08/1999;22;2;3;20;1;True
+sarah stack;sarahstack@gmail.com;57988727506;68018215049;21/01/2000;21;3;2;21;2;True
+beatriz pollock;beatrizpollock@gmail.com;57988727507;99005000082;22/02/2001;20;4;2;22;3;True
+aurora shaw;aurorashaw@gmail.com;57988727508;43288115093;23/03/2002;19;5;2;23;1;True
+mariana ramsey;marianaramsey@gmail.com;57988727509;68764262030;24/04/1990;31;6;2;24;2;True
+maria cecília reese;mariacecíliareese@gmail.com;57988727510;47323484081;25/05/1991;30;1;2;25;3;True
+olívia saunders;olíviasaunders@gmail.com;57988727511;13232830056;26/06/1992;29;2;2;26;1;True
+maria helena salisbury;mariahelenasalisbury@gmail.com;57988727512;29421625030;27/07/1993;28;3;2;27;2;True
+isadora sinclair;isadorasinclair@gmail.com;57988727513;27273409073;01/08/1994;27;4;2;19;3;True
+luna stack;lunastack@gmail.com;57988727514;13732184013;02/01/1995;26;5;2;19;1;True
+catarina walsh;catarinawalsh@gmail.com;57988727515;78001780058;03/02/1996;25;6;2;19;2;True
+melissa vaughn;melissavaughn@gmail.com;57988727516;16958065069;04/03/1997;24;1;2;26;3;True
+maria eduarda annesley;mariaeduardaannesley@gmail.com;57988727517;96598831024;05/04/1998;23;2;3;26;1;True
+lavínia appleton;lavíniaappleton@gmail.com;57988727518;34129421034;06/05/1999;22;3;2;24;2;True
+agatha ackworth;agathaackworth@gmail.com;57988727519;27782787025;07/06/2000;21;4;2;23;3;True
+emanuelly breeden;emanuellybreeden@gmail.com;57988727520;46152075068;08/07/2001;20;5;2;16;1;True
+maria blackwood;mariablackwood@gmail.com;57988727521;45316174011;09/08/2002;19;6;2;11;2;True
+alícia brixton;alíciabrixton@gmail.com;57988727522;47068796044;10/01/1998;23;1;2;11;3;True
+rebeca byron;rebecabyron@gmail.com;57988727523;29401711062;11/02/1999;22;2;2;11;1;True
+anaclara canon;anaclaracanon@gmail.com;57988727524;55506229046;12/03/2000;21;3;2;9;2;True
+yasmin chamberlain;yasminchamberlain@gmail.com;57988727525;66917953008;13/04/2001;20;4;2;7;3;True
+clara corbett;claracorbett@gmail.com;57988727526;28344997054;14/05/2002;19;5;2;12;1;True
+marina chapman;marinachapman@gmail.com;57988727527;22913708048;15/06/1990;31;6;2;13;2;True
+anajúlia folsham;anajúliafolsham@gmail.com;57988727528;38715342000;16/07/1991;30;1;2;19;3;True
+analuísa crawford;analuísacrawford@gmail.com;57988727529;95200300002;17/08/1992;29;2;2;19;1;True
+isabelly fawcett;isabellyfawcett@gmail.com;57988727530;52236058020;18/01/1993;28;3;2;19;2;True
+analaura goodwin;analauragoodwin@gmail.com;57988727531;47390841044;19/02/1994;27;4;2;26;3;True
+rafaela garfield;rafaelagarfield@gmail.com;57988727532;26893381069;20/03/1995;26;5;2;26;1;True
+analiz haddock;analizhaddock@gmail.com;57988727533;33084608075;21/04/1996;25;6;2;24;2;True
+stella hadleigh;stellahadleigh@gmail.com;57988727534;88812082025;22/05/1997;24;1;2;23;3;True
+gabriela hambleton;gabrielahambleton@gmail.com;57988727535;93879591040;23/06/1998;23;2;2;16;1;True
+vitória hampton;vitóriahampton@gmail.com;57988727536;70346879000;24/07/1999;22;3;2;11;2;True
+allana harris;allanaharris@gmail.com;57988727537;28543343020;25/08/2000;21;4;2;11;3;True
+mirella smith;mirellasmith@gmail.com;57988727538;43652720040;26/01/2001;20;5;2;11;1;True
+milena williams;milenawilliams@gmail.com;57988727539;20118374052;27/02/2002;19;6;3;9;2;True
+bella brown;bellabrown@gmail.com;57988727540;23748184034;01/03/1998;23;1;2;7;3;False
+ana davis;anadavis@gmail.com;57988727541;21453813098;02/04/1999;22;2;2;12;1;True
+nicole jones;nicolejones@gmail.com;57988727542;22491223007;03/05/2000;21;3;2;13;2;True
+emilly miller;emillymiller@gmail.com;57988727543;79678704099;04/06/2001;20;4;2;19;3;True
+maria vitória taylor;mariavitóriataylor@gmail.com;57988727544;21401499040;05/07/2002;19;5;2;19;1;True
+mariah moore;mariahmoore@gmail.com;57988727545;33326930003;06/08/1990;31;6;3;19;2;True
+clarice wilson;claricewilson@gmail.com;57988727546;66465836092;07/01/1991;30;1;2;26;3;True
+letícia anderson;letíciaanderson@gmail.com;57988727547;77313629060;08/02/1992;29;2;2;26;1;True
+laís jackson;laísjackson@gmail.com;57988727548;91054847070;09/03/1993;28;3;2;24;2;True
+marializ white;marializwhite@gmail.com;57988727549;41988075076;10/04/1994;27;4;2;23;3;True
+bianca martin;biancamartin@gmail.com;57988727550;20478982003;11/05/1995;26;5;2;16;1;True
+melina garcia;melinagarcia@gmail.com;57988727551;34082884025;12/06/1996;25;6;2;11;2;True
+jade thompson;jadethompson@gmail.com;57988727552;64319006003;13/07/1997;24;1;2;11;3;True
+ana beatriz martinez;anabeatrizmartinez@gmail.com;57988727553;31013181069;14/08/1998;23;2;2;11;1;True
+maria fernanda robinson;mariafernandarobinson@gmail.com;57988727554;67914631043;15/01/1999;22;3;2;9;2;True
+betina clark;betinaclark@gmail.com;57988727555;42820970001;16/02/2000;21;4;2;7;3;True
+maria valentina rodriguez;mariavalentinarodriguez@gmail.com;57988727556;70782318053;17/03/2001;20;5;2;12;1;True
+maria laura lewis;marialauralewis@gmail.com;57988727557;71989389066;18/04/2002;19;6;2;13;2;True
+heloíse walker;heloísewalker@gmail.com;57988727558;92808104057;19/05/1998;23;1;2;19;3;True
+maria isis allen;mariaisisallen@gmail.com;57988727559;40251405001;20/06/1999;22;2;2;19;1;True
+zoe hall;zoehall@gmail.com;57988727560;36485098020;21/07/2000;21;3;2;19;1;True
+louise young;louiseyoung@gmail.com;57988727561;86689756092;22/08/2001;20;4;2;26;2;True
+malu hernandez;maluhernandez@gmail.com;57988727562;45519196087;23/01/2002;19;5;2;26;3;True
+melinda hill;melindahill@gmail.com;57988727563;61306941059;24/02/1990;31;6;2;24;1;True
+ana cecília lopez;anacecílialopez@gmail.com;57988727564;37728055070;25/03/1991;30;1;2;23;2;True
+ana lívia king;analíviaking@gmail.com;57988727565;80703246003;26/04/1992;29;2;2;16;3;True
+ana vitória wright;anavitóriawright@gmail.com;57988727566;57086226017;27/05/1993;28;3;2;11;1;True
+maria heloísa scott;mariaheloísascott@gmail.com;57988727567;63681116075;01/06/1994;27;4;2;11;2;True
+chloe baker;chloebaker@gmail.com;57988727568;94436703053;02/07/1995;26;5;2;11;3;True
+maria flor adams;mariafloradams@gmail.com;57988727569;90041286030;03/08/1996;25;6;2;9;1;True
+pietra green;pietragreen@gmail.com;57988727570;84743425034;04/01/1997;24;1;2;7;2;True
+pérola nelson;pérolanelson@gmail.com;57988727571;71879283000;05/02/1998;23;2;2;12;3;True
+ana sophia mitchell;anasophiamitchell@gmail.com;57988727572;20926563092;06/03/1999;22;3;2;13;1;True
+maria elisa perez;mariaelisaperez@gmail.com;57988727573;67361157017;07/04/2000;21;4;2;7;2;True
+gabrielly roberts;gabriellyroberts@gmail.com;57988727574;14138625003;08/05/2001;20;5;2;8;3;True
+larissa turner;larissaturner@gmail.com;57988727575;64517506037;09/06/2002;19;6;2;9;1;True
+maria eloá abbey;mariaeloáabbey@gmail.com;57988727576;63610038098;10/07/1996;25;1;2;10;2;True
+eduarda lynch;eduardalynch@gmail.com;57988727577;36257710049;11/08/1997;24;2;2;11;3;True

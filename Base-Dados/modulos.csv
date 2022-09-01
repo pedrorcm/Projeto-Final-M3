@@ -1,0 +1,17 @@
+﻿modulo_id;modulo_nome;modulo_disciplina
+1;A;Pensamento computacional e algoritmico
+2;B;Estruturas de dados
+3;C;Banco de dados
+4;D;Visualização de dados
+5;E;Introdução a desenvolvimento front-end e criação de hábitos de sucesso
+6;F;Orientação a objetos e utilização de aplicações http e inteligência emocional
+7;G;Modelos de armazenamento de dados e metodologias ágeis
+8;H;Frameworks bibliotecas tecnologicas server-side back-end postura profissional e inovação
+9;I;Intrudução a SQL Server
+10;J;Modelagem
+11;K;CRUD
+12;L;Transações
+13;M;Fundamentos da engenharia de dados
+14;N;Coleta e preparação de dados
+15;O;Novos paradigmas em armazenamento de dados
+16;P;Pipelines de dados
