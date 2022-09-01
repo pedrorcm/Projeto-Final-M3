@@ -8,13 +8,13 @@
 
 Este projeto foi feito como parte integrante da avaliação do Módulo 3 do curso Data Analytics da Resilia Educação da turma 20. Este projeto foi desenvolvido pelo Squad 7, que é composto pelos estudantes:
 
-- Ally;
+- Allyson Santana Rodrigues;
 
-- Camilo ;
+- Camilo Sergio Regis Macedo;
 
-- Carlos;
+- Carlos Henrique Augustin;
 
-- Pedro;
+- Pedro Rocha Campos;
 
 - Thiago Vasconcelos.
 
