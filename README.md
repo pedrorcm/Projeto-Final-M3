@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/resiliam3s72.png)
 
-![Sildes](https://www.canva.com/design/DAFKeEzwhlc/RtHTGOYka1V6bHbT_0o9QQ/edit?utm_content=DAFKeEzwhlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Sildes](https://www.canva.com/design/DAFKeEzwhlc/RtHTGOYka1V6bHbT_0o9QQ/edit?utm_content=DAFKeEzwhlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Índice de Conteúdos
 
